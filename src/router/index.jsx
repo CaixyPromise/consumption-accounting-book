@@ -4,8 +4,6 @@ import Year from "@/pages/Year"
 import Month from "@/pages/Month"
 import {createBrowserRouter} from "react-router-dom"
 
-console.log("Year in router", Year)
-console.log("Month in router", Month)
 const router = createBrowserRouter(
 [
     {
